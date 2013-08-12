@@ -1,4 +1,3 @@
-Wop
-===
+#Wop Boilerplate! :D
 
-Boilerplate for Node, Express, Angular, and MySQL
+Still has no idea what to insert here. :3

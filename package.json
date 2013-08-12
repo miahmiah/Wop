@@ -1,0 +1,23 @@
+{
+  "name": "wop",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "3.3.4",
+    "ejs": "*",
+	"sha1": "*",
+	"mysql": "*",
+	"connect-mysql": "*",
+	"passport": "*",
+	"passport-facebook": "*",
+	"passport-google": "*",
+	"passport-twitter": "*",
+	"passport-github": "*",
+	"underscore": "*",
+	"async": "0.2.9",
+	"mkdirp": "0.3.5"
+  }
+}
